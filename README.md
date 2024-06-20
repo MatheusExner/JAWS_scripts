@@ -1,4 +1,4 @@
-# Scripts para JAWS
+# Script de shell reverso para JAWS
 
 Este repositório contém scripts para automatizar tarefas no JAWS (Job Access With Speech) usando uma combinação de scripts JAWS e scripts Python. O principal exemplo fornecido é uma configuração de shell reverso que utiliza o JAWS para iniciar o shell e o Python para estabelecer a conexão reversa.
 
